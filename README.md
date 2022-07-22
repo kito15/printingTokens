@@ -1,5 +1,5 @@
 # printingTokens
-Given a sentence, , print each word of the sentence in a new line.
+Given a sentence,print each word of the sentence in a new line.
 
 Input Format
 
